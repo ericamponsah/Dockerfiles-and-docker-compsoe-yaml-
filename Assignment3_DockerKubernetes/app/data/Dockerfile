@@ -1,0 +1,5 @@
+FROM mysql:5.7
+
+MAINTAINER eric
+
+EXPOSE 3306
